@@ -9,7 +9,7 @@
 </td>
 <td>
 
-<img src="https://cdn.prod.website-files.com/667c3c67ba93623344ee6ac7/6787be4e832d36673f861bff_221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250"/>
+<img src="https://cdn.prod.website-files.com/667c3c67ba93623344ee6ac7/6787be4e832d36673f861bff_221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"/>
 
 </td>
 </tr>
