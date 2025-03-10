@@ -1,14 +1,24 @@
-### Hi, I'm Henrietta! 👋
+<table>
+<tr>
+<td>
 
-![GIF](https://cdn.prod.website-files.com/667c3c67ba93623344ee6ac7/6787be4e832d36673f861bff_221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
-
-🎨 **Designer** | 💻 **C++ Developer** | 🎮 **Game Modder**  
+# Hi, I'm Henrietta! 👋  
+🎨 **Designer** | 💻 **Developer** | 🎮 **Game Modder**  
 🚀 Balancing **creativity and performance** in AI, game dev, and procedural generation
+
+</td>
+<td>
+
+<img src="https://cdn.prod.website-files.com/667c3c67ba93623344ee6ac7/6787be4e832d36673f861bff_221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### ⚡ **What I'm Building**
-- 🔥 **High-Performance Procedural Generation Library** (C++, multi-threaded, AI-powered)
+- 🔥 **High-Performance Procedural Generation Library** (C++, multi-threaded, AI-powered) - COMING SOON, keep an eye open! :)
 - 🎮 Modding and custom tools for **game development**
 - 🛠️ AI and **interactive design systems**
 
