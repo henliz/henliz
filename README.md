@@ -54,6 +54,6 @@
 ---
 
 ### 📫 **Let's Connect!**
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=webflow&logoColor=white)](https://henrietta.webflow.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)]([https://henliz.github.io/])
 
 Building the future of interactive AI experiences, one line of code at a time ✨
