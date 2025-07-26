@@ -54,6 +54,7 @@
 ---
 
 ### 📫 **Let's Connect!**
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)]([https://henliz.github.io/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://henliz.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriettavanniekerk/)
 
 Building the future of interactive AI experiences, one line of code at a time ✨
