@@ -56,5 +56,6 @@
 ### 📫 **Let's Connect!**
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://henliz.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriettavanniekerk/)
+[![Path to Menzo Game](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white)]([https://www.linkedin.com/in/henriettavanniekerk/](https://discord.gg/jPe2ZvSy))
 
-Building the future of interactive AI experiences, one line of code at a time ✨
+Building the future of interactive experiences, one line of code at a time ✨
