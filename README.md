@@ -2,9 +2,13 @@
 <tr>
 <td>
 
-# Hi, I'm Henrietta! 👋  
+# Hi, I'm Henriëtta! 👋  
 🎨 **Designer** | 💻 **Developer** | 🎮 **Game Modder**  
-🚀 Balancing **creativity and performance** in AI, game dev, and procedural generation
+
+### ⚡ **What I'm Building**
+- 🔥 **Skrimp:** your AI sous chef, helping you plan meals and save money <a href="https://www.skrimp.ai">(check it out ↗)</a>
+- 🎮 **Path to Menzoberranzan:** an unofficial expansion to Baldur's Gate 3 <a href="https://www.youtube.com/@lotrichexe4860">(check it out ↗)</a>
+- 🛠️ **A Functional Portfolio:** one day.. probably... hopefully lol
 
 </td>
 <td>
@@ -23,11 +27,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
 
 ---
-
-### ⚡ **What I'm Building**
-- 🔥 **Skrimp:**your AI sous chef, helping you plan meals and save money <a href="https://your-link-here.com">(check it out ↗)</a>
-- 🎮 **Path to Menzoberranzan:** an unofficial expansion to Baldur's Gate 3 (campaign sized full-conversion mod) ↗
-- 🛠️ AI and **interactive design systems**
 
 ### 🛠 **Tech Stack**
 **Core Languages:**
