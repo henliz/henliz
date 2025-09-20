@@ -17,9 +17,16 @@
 
 ---
 
+### 📈 **GitHub Stats**
+![Henliz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henliz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
+
+---
+
 ### ⚡ **What I'm Building**
-- 🔥 Cool secret projects
-- 🎮 Modding and custom tools for **game development**
+- 🔥 **Skrimp:**your AI sous chef, helping you plan meals and save money <a href="https://your-link-here.com">(check it out ↗)</a>
+- 🎮 **Path to Menzoberranzan:** an unofficial expansion to Baldur's Gate 3 (campaign sized full-conversion mod) ↗
 - 🛠️ AI and **interactive design systems**
 
 ### 🛠 **Tech Stack**
@@ -44,12 +51,6 @@
 **Developer Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
----
-
-### 📈 **GitHub Stats**
-![Henliz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henliz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
 
 ---
 
