@@ -22,7 +22,7 @@
 ---
 
 ### 📈 **GitHub Stats**
-![Henrietta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henliz&include_all_commits=true&show_icons=true&cache_seconds=1800&v=3)
+![Activity](https://raw.githubusercontent.com/henliz/henliz/main/github-metrics.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&cache_seconds=1800&v=3)
 
 
