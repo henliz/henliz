@@ -22,9 +22,9 @@
 ---
 
 ### 📈 **GitHub Stats**
-![Henrietta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henliz&count_private=true&show_icons=true&include_all_commits=true)
+![Henrietta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henliz&include_all_commits=true&show_icons=true&cache_seconds=1800&v=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&cache_seconds=1800&v=3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
 
 ---
 
