@@ -22,7 +22,7 @@
 ---
 
 ### 📈 **GitHub Stats**
-![Henliz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henliz&show_icons=true&theme=radical)
+![Henrietta's GitHub stats](https://github-readme-stats.vercel.app/api?username=henliz&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
 
