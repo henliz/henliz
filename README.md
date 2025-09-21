@@ -22,6 +22,8 @@
 ---
 
 ### 📈 **GitHub Stats**
+![Streak](https://streak-stats.demolab.com?user=henliz&hide_longest_streak=true&card_width=470&v=2)
+
 ![Henliz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henliz&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
