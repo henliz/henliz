@@ -22,8 +22,9 @@
 ---
 
 ### 📈 **GitHub Stats**
-![Activity](https://raw.githubusercontent.com/henliz/henliz/main/github-metrics.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&cache_seconds=1800&v=3)
+![Henliz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henliz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
 
 
 ---
