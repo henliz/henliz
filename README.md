@@ -6,7 +6,7 @@
 🎨 **Designer** | 💻 **Developer** | 🎮 **Game Modder**  
 
 ### ⚡ **What I'm Building**
-- 🔥 **Skrimp:** your AI sous chef, helping plan meals and save money <a href="https://www.skrimp.ai">(explore ↗)</a>
+- 🔥 **Skrimp:** your AI sous chef— plan meals and save money <a href="https://www.skrimp.ai">(explore ↗)</a>
 - 🎮 **Path to Menzoberranzan:** an expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860">(explore ↗)</a>
 - 🛠️ **A Functional Portfolio:** one day.. probably... hopefully lol
 
