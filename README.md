@@ -6,14 +6,14 @@
 🎨 **Designer** | 💻 **Developer** | 🎮 **Game Modder**  
 
 ### ⚡ **What I'm Building**
-- 🔥 **Skrimp:** your AI sous chef, helping plan meals and save money <a href="https://www.skrimp.ai">(check it out ↗)</a>
-- 🎮 **Path to Menzoberranzan:** an unofficial expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860">(check it out ↗)</a>
+- 🔥 **Skrimp:** your AI sous chef, helping plan meals and save money <a href="https://www.skrimp.ai">(explore ↗)</a>
+- 🎮 **Path to Menzoberranzan:** an unofficial expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860">(explore ↗)</a>
 - 🛠️ **A Functional Portfolio:** one day.. probably... hopefully lol
 
 </td>
 <td>
 
-<img src="https://cdn.prod.website-files.com/667c3c67ba93623344ee6ac7/6787be4e832d36673f861bff_221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="200"/>
+<img src="https://cdn.prod.website-files.com/667c3c67ba93623344ee6ac7/6787be4e832d36673f861bff_221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"/>
 
 </td>
 </tr>
