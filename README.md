@@ -24,9 +24,9 @@
 ### 📈 **GitHub Stats**
 [![Streak](https://streak-stats.demolab.com?user=henliz&theme=tokyonight&hide_longest_streak=true&card_width=470)](https://streak-stats.demolab.com/demo/)
 
-![Henliz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henliz&show_icons=true&theme=radical)
+![Henliz's GitHub Stats](https://YOUR-DEPLOYMENT-URL/api?username=henliz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical&include_all_commits=true&count_private=true)
 
 
 ---
