@@ -3,12 +3,21 @@
 <td>
 
 # Hi, I'm Henriëtta! 👋  
-🎨 **Designer** | 💻 **Developer** | 🎮 **Game Modder**  
+🎨 **Design Engineer (AI + UX) • Interaction Design & Business @ University of Waterloo • studying HCI/HCD, Programming, and Business**
 
 ### ⚡ **What I'm Building**
 - 🔥 **Skrimp:** your AI sous chef— plan meals and save money <a href="https://www.skrimp.ai">(explore ↗)</a>
 - 🎮 **Path to Menzoberranzan:** an expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860">(explore ↗)</a>
 - 🛠️ **A Functional Portfolio:** one day.. probably... hopefully lol
+
+  **🏆 Awards & receipts**
+- CTV News National coverage x2 (2025)
+- Velocity **Cornerstone Award** (2025)
+- **Enterprise Co-op $5K Pitch** — winner (2025)
+- **TechNova 2025 — Winner** (“My Auntie” real-time voice/SMS AI)
+- **Municipal startup funding** (summer program, 2025)
+- **CEWIL WIL** recipient (2025)
+
 
 </td>
 <td>
