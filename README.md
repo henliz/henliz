@@ -2,12 +2,12 @@
 <tr>
 <td>
 
-# Hi, I'm Henriëtta! 👋  
+# 𝑯𝒊, 𝑰'𝒎 𝑯𝒆𝒏𝒓𝒊𝒆𝒕𝒕𝒂 ❤︎  
 🎨 **Design Engineer (AI + UX) • Interaction Design & Business @ University of Waterloo • studying HCI/HCD, Programming, and Business**
 
 ### ⚡ **What I'm Building**
-- 🔥 **Skrimp:** your AI sous chef— plan meals and save money <a href="https://www.skrimp.ai">(explore ↗)</a>
-- 🎮 **Path to Menzoberranzan:** an expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860">(explore ↗)</a>
+- 🍽️ **Skrimp:** your AI sous chef— plan meals and save money <a href="https://www.skrimp.ai" target="_blank">(explore ↗)</a>
+- 🎮 **Path to Menzoberranzan:** an expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860" target="_blank">(explore ↗)</a>
 - 🛠️ **A Functional Portfolio:** one day.. probably... hopefully lol
 
   
