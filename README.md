@@ -12,7 +12,7 @@
 - 🛠️ **A Functional Portfolio:** one day.. probably... hopefully lol
 
   
-**🏆 Awards & receipts:** <br>CTV News National coverage x2 (2025) • Velocity Cornerstone Award • Enterprise Co-op $5K Pitch winner • Municipal startup funding • CEWIL WIL recipient • TechNova 2025 (Winner — “My Auntie”) • Rotary Club of Stratford Award
+**🏆 Awards & receipts:** <br>CTV News National coverage x3 (2025) • Waterloo Region Record "Hero of 2025" • Velocity Cornerstone Award • Enterprise Co-op $5K Pitch winner • Municipal startup funding • CEWIL WIL recipient • TechNova 2025 (Winner — "My Auntie") • Rotary Club of Stratford Award
 
 
 
