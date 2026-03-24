@@ -26,19 +26,11 @@
 
 <img src="https://cdn.prod.website-files.com/667c3c67ba93623344ee6ac7/6787be4e832d36673f861bff_221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="300"/>
 
+[![Streak](https://streak-stats.demolab.com?user=henliz&theme=tokyonight&hide_longest_streak=true&card_width=470)](https://streak-stats.demolab.com/demo/)
+
 </td>
 </tr>
 </table>
-
----
-
-### 📈 **GitHub Stats**
-[![Streak](https://streak-stats.demolab.com?user=henliz&theme=tokyonight&hide_longest_streak=true&card_width=470)](https://streak-stats.demolab.com/demo/)
-
-![Henliz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henliz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henliz&layout=compact&theme=radical)
-
 
 ---
 
