@@ -15,7 +15,7 @@
 - 🧶 **A really cool thing I can’t share yet…** (classified for now 👀)
 
   
-**🏆 Awards & receipts:** <br>CTV News National coverage x3 (2025) • Waterloo Region Record "Hero of 2025" • Velocity Cornerstone Award • Enterprise Co-op $5K Pitch winner • Municipal startup funding • CEWIL WIL recipient • TechNova 2025 (Winner — "My Auntie") • Rotary Club of Stratford Award
+**🏆 Awards & receipts:** <br>BMO Woman of the Year Nominee • CTV News National coverage x3 (2025) • Waterloo Region Record "Hero of 2025" • Velocity Cornerstone Award • Enterprise Co-op $5K Pitch winner • Municipal startup funding • CEWIL WIL recipient • TechNova 2025 (Winner — "My Auntie") • Rotary Club of Stratford Award
 
 
 
