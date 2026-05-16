@@ -10,7 +10,7 @@
 🎨 **Design Engineer (AI + UX) • Interaction Design & Business @ University of Waterloo • studying HCI/HCD, Programming, and Business**
 
 ### ⚡ **What I'm Building**
-- 🍽️ **Founder @ Skrimp:** your AI sous chef, plan meals and save money <a href="https://www.skrimp.ai/welcome" target="_blank">(↗)</a>
+- 🍽️ **Founder @ Skrimp:** your AI sous chef <a href="https://www.skrimp.ai/welcome" target="_blank">(↗)</a>
 - 🎮 **Path to Menzoberranzan:** an expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860" target="_blank">(↗)</a>
 - 🧶 **A really cool thing I can’t share yet…** (classified for now 👀)
 
