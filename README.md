@@ -14,7 +14,7 @@
 - 🧶 **Founding Product Design Engineer @ Trove** <a href="https://www.trove.is" target="_blank">(↗)</a>
 - 🎮 **Path to Menzoberranzan:** an expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860" target="_blank">(↗)</a>
   
-**🏆 Awards & receipts:** <br>BMO Woman of the Year Nominee • CTV News National coverage x3 (2025) • Waterloo Region Record "Hero of 2025" • Velocity Cornerstone Award • Enterprise Co-op $5K Pitch winner • Municipal startup funding • CEWIL WIL recipient • TechNova 2025 (Winner — "My Auntie") • Rotary Club of Stratford Award
+**🏆 Awards & receipts:** <br>BMO & KW Oktoberfest Women of the Year Nominee • Jain Family Award for Entrepreneurship • CTV News National coverage x3 (2025) • Waterloo Region Record "Hero of 2025" • Velocity Cornerstone Award • Enterprise Co-op $5K Pitch winner • Municipal startup funding • CEWIL WIL recipient • TechNova 2025 Winner • Rotary Club of Stratford Award
 
 
 
