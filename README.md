@@ -11,9 +11,8 @@
 
 ### ⚡ **What I'm Building**
 - 🍽️ **Founder @ Skrimp:** your AI sous chef <a href="https://www.skrimp.ai/welcome" target="_blank">(↗)</a>
+- 🧶 **Founding Product Design Engineer @ Trove** <a href="https://www.trove.is" target="_blank">(↗)</a>
 - 🎮 **Path to Menzoberranzan:** an expansion to BG3 <a href="https://www.youtube.com/@lotrichexe4860" target="_blank">(↗)</a>
-- 🧶 **A really cool thing I can’t share yet…** (classified for now 👀)
-
   
 **🏆 Awards & receipts:** <br>BMO Woman of the Year Nominee • CTV News National coverage x3 (2025) • Waterloo Region Record "Hero of 2025" • Velocity Cornerstone Award • Enterprise Co-op $5K Pitch winner • Municipal startup funding • CEWIL WIL recipient • TechNova 2025 (Winner — "My Auntie") • Rotary Club of Stratford Award
 
