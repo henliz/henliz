@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-# 𝑯𝒊, 𝑰'𝒎 𝑯𝒆𝒏𝒓𝒊𝒆𝒕𝒕𝒂 ❤︎  
+# 𝑯𝒊, 𝑰'𝒎 𝑯𝒆𝒏𝒓𝒊𝒆𝒕𝒕𝒂 ٩(ˊᗜˋ*)و ❤︎  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://henliz.github.io/)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriettavanniekerk/)
 [![Path to Menzo Game](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jPe2ZvSy)
